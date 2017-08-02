@@ -1,0 +1,2 @@
+# EmptyDataController
+EmptyDataController是一个用于UITableView和UICollectionView没有数据的时候所展示的占位视图，便于提醒用户做响应的操作。
